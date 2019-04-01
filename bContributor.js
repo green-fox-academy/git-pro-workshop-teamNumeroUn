@@ -1,5 +1,5 @@
-function count () {
-  return 22;
+function count (inputDate) {
+  return inputDate;
 }
 
-console.log(count());
+console.log(count('April'));
