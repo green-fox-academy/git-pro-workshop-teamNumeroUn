@@ -6,3 +6,4 @@ function future () {
 }
 
 future();
+console.log('conflict');
