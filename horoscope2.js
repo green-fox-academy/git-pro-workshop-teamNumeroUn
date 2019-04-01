@@ -4,5 +4,5 @@ function future () {
   let answer = prompt('What is your horoscope?');
   alert(`Your horoscope is ${answer}, altered by C`);
 }
-
+//change c4
 future("blablbalbalbala");
