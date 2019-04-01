@@ -6,8 +6,8 @@ function count (age) {
 console.log(count('April'));
 
 
-function cheer (lang) {
-  return lang;
+function cheer (lang, stuff) {
+  return lang + stuff;
 }
 
-console.log(cheer("JavaScript"));
+console.log(cheer("JavaScript", "exists"));

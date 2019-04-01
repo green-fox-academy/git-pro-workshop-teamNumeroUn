@@ -1,9 +1,8 @@
 'use strict';
 
-function future () {
-  let answer = prompt('What is your horoscope?');
-  alert(`Your horoscope is ${answer}, altered by C`);
+function future (horoscope, name) {
+  print(horoscope);
+  print(name);
 }
 
-future();
-console.log('conflict');
+future('Aries', 'Kitti');
