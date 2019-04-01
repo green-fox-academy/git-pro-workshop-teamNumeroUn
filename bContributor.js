@@ -1,3 +1,9 @@
+function count (age) {
+  return age;
+}
+
+console.log(count(22));
+
 function cheer (lang) {
   return lang;
 }
