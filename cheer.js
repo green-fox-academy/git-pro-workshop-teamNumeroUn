@@ -1,5 +1,7 @@
 'use strict';
 
-function cheer(param){
-  console.log(param)
+function cheer(lang){
+  return lang;
 }
+
+console.log(cheer("JavaScript"));
