@@ -1,9 +1,11 @@
 'use strict';
 
-function future (parameter1, parameter2, parameter3, param4) {
-  console.log(parameter, 'ALTERED BY C');
-  console.log("balbalbalbalb");
-  console.log("proba");
+function future (parameter1, parameter2, something) {
+  console.log(parameter1);
+  console.log(parameter2);
+  console.log(something);
 }
 ////sup
-future("wazzup", "eeeeeeeey", "agaegg", "stasgtga");
+future("wazzup", "eeeeeeeey", "balbalbal");
+
+//comment

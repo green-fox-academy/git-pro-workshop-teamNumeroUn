@@ -1,6 +1,6 @@
 
 function count (age) {
-  return age;
+  return `Counting the countless ${age}`;
 }
 
 console.log(count('April'));
@@ -9,5 +9,5 @@ console.log(count('April'));
 function cheer (lang, stuff) {
   return lang + stuff;
 }
-
+//doing something
 console.log(cheer("JavaScript", "exists"));
