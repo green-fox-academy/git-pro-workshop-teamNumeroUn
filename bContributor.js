@@ -1,5 +1,6 @@
-function count (inputDate) {
-  return inputDate;
+
+function count (age) {
+  return age;
 }
 
 console.log(count('April'));
