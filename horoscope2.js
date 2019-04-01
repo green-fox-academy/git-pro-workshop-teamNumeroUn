@@ -1,7 +1,8 @@
 'use strict';
 
-function future (horoscope) {
+function future (horoscope, name) {
   print(horoscope);
+  print(name);
 }
 
-future('Aries');
+future('Aries', 'Kitti');
