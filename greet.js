@@ -1,5 +1,5 @@
-function logOut(inputText){
-  console.log(inputText);
+function logOut(input1, input2){
+  console.log(input1, input2);
 }
 
-logOut("yo guys, Greetings!");
+logOut("Greetings for the parameter");
