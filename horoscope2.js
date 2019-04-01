@@ -5,4 +5,4 @@ function future () {
   alert(`Your horoscope is ${answer}, altered by C`);
 }
 
-future();
+future("blablbalbalbala");
