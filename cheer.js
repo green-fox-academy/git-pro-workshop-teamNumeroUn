@@ -1,1 +1,5 @@
-console.log('TeamNumeroUn')
+'use strict';
+
+function cheer(param){
+  console.log(param)
+}
