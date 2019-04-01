@@ -4,4 +4,4 @@ function cheer(lang){
   return lang;
 }
 
-console.log(cheer("JavaScript"));
+console.log(cheer("Cheer"));
