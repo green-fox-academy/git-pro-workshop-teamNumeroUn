@@ -1,9 +1,7 @@
 'use strict';
 
-function cheer(lang, c){
-  return lang,c;
+function cheer(lang){
+  return "Cheer for"+lang;
 }
 
-//brownbus-twoparam
-console.log(cheer("JavaScript", ' <--  styleguide says you should use apostrophe instead of the two line quotation mark'));
-
+console.log(cheer("Javascript"));
