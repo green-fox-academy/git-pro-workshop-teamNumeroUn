@@ -2,4 +2,4 @@ function logOut(inputText){
   console.log(inputText);
 }
 
-logOut("Greetings!");
+logOut("yo guys, Greetings!");
