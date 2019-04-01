@@ -1,5 +1,5 @@
-function count (age) {
-  return age;
+function cheer (lang) {
+  return lang;
 }
 
-console.log(count(22));
+console.log(cheer("JavaScript"));
