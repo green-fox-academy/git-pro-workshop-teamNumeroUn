@@ -5,5 +5,4 @@ function future () {
   alert(`Your horoscope is ${answer}, altered by C`);
 }
 
-future();
-console.log('conflict');
+future("blablbalbalbala");
