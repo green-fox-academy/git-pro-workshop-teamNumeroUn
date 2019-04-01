@@ -4,4 +4,4 @@ function cheer(lang){
   return lang;
 }
 
-console.log(cheer("Cheer"));
+console.log(cheer("hehehehehehe"));
