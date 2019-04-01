@@ -1,1 +1,3 @@
-console.log('Judit');
+function logOut(inputText){
+  console.log(inputText);
+}
