@@ -1,7 +1,7 @@
 'use strict';
 
-function future () {
-  console.log("taurus");
+function future (parameter) {
+  console.log(parameter);
 }
 
-future()
+future("wazzup");
