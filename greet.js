@@ -3,4 +3,4 @@ function logOut(input1, input2){
 }
 
 
-logOut("Greetings for the parameter");
+logOut('Say something', 'I wanna merge');
