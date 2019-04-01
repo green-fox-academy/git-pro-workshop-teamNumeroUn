@@ -3,4 +3,4 @@ function logOut(input1, input2){
 }
 
 
-logOut('Say something', 'I wanna merge');
+logOut('Say something', 'Try my second pull request');
