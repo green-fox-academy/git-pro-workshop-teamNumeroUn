@@ -1,6 +1,6 @@
 
 function count (age) {
-  return age;
+  return `Counting the countless ${age}`;
 }
 
 console.log(count('April'));
